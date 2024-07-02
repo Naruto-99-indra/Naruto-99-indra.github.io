@@ -1,0 +1,51 @@
+H1{
+   color:rgb(43, 35, 204);
+   font-size:7em
+}
+
+p, li {
+   color: black;
+}
+
+li {
+   list-style-type: decimal;
+}
+h1 + p {
+    font-size:400%;
+    font-weight: bold;
+    color: rgb(206, 255, 9);
+
+}
+a:link{
+   color: red (140, 170, 218)
+}
+
+a:visited {
+   color: blue
+}
+
+a:hover {
+   text-decoration: none; 
+color: green  
+}
+
+.box {
+   width:100%;
+   height: 116px; 
+   background-color: rgb(15, 1, 58); 
+}
+
+.title {
+   margin: 0px;
+   text-align:center;
+}
+
+li{
+   display:inline-flex;
+color: yellow;
+padding-right:10px;
+}
+
+.blox {
+   text-align: right;
+}
