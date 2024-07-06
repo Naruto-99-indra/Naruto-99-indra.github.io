@@ -3,16 +3,19 @@ H1 {
    font-size: 7em
 }
 
-p,
+
 li {
    color: black;
 }
-
+p{
+   font-size: 200%;
+   color: black;
+}
 li {
    list-style-type: decimal;
 }
 
-h1+p {
+h1 {
    font-size: 400%;
    font-weight: bold;
    color: rgb(206, 255, 9);
@@ -41,6 +44,11 @@ li {
 }
 
 .blox {
-   text-align: right;
+   text-align: center;
    color: blue;
+   font-size: 120%
+}
+
+h1 {
+   text-align: center;
 }
